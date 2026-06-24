@@ -1,6 +1,6 @@
 # Project 1 - EDA
 
-This project performs exploratory data analysis on a dataset.
+This project performs exploratory data analysis on a dataset of youtube videos based on views and likes.
 
 ## Files
 - data.csv : Dataset
